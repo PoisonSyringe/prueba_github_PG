@@ -34,5 +34,7 @@ const autos = [
     }
 ];
 
+console.log('chupame la po' + 'lla 8===D----')  // (hablando con una prostituta obviamente)
 
 module.exports = autos;
+
